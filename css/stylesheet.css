@@ -15,6 +15,7 @@ h1{
  color: #FF0000;
  background-color: #FFE8E8;
  padding: 24px 79px ;
+ font-size: 32px;
  margin: 32px;
  margin-bottom: 44px;
  display: inline-block;
@@ -65,9 +66,9 @@ u{
     margin-bottom: 76px;
 }
 
-#img{
+img{
  width: 556px;
  height: 347px;
- margin: 32px;
+ margin-left: 32px;
 
 }
